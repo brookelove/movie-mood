@@ -11,6 +11,14 @@
  Team coding, debugging, finding and using resources and the right kind of documentation. git hub workflow!!! How to parse information from an API to get the data we want. working together in an agile format to deliver our project. communicating to consolidate ideas between members. 
 
  What makes our project stand out is we are allowing open ended user input that determines emotional weight and outputs a emotion response to then search a movie database for suggestions to present to the user. 
+ 
+ # Technology Used During this Project
+ - HTML
+ - CSS
+ - Text to Emotion API
+ - JS
+ - JQuery
+ - TMDB Mocie API
 
 
 # To the Future! 

@@ -47,3 +47,6 @@ If a user is need more resources we have provided relevant links.
 
 
 # Mock Up
+<img width="1420" alt="Screen Shot 2022-04-17 at 10 32 17 AM" src="https://user-images.githubusercontent.com/98351351/163725865-f535a814-f318-40cc-bf88-c50939706839.png">
+<img width="1420" alt="Screen Shot 2022-04-17 at 10 32 43 AM" src="https://user-images.githubusercontent.com/98351351/163725866-20fda184-a3e8-4938-9d8c-4648cc26723a.png">
+
